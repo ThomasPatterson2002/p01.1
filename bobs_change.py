@@ -37,4 +37,6 @@ def bobs_change(money):
         print("Sorry Bob, you don't have enough")
         
     elif money >= 50:
-        print("you have enough money Bob")
+        print(money - 50)
+        
+      
