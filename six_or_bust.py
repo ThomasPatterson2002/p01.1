@@ -30,7 +30,7 @@ def gone_bust(n):
 
 
     if n == 6:
-        print("pheww!")
+        print("Pheww!")
 
 
     else:
